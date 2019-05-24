@@ -24,8 +24,7 @@ public class JavaApplication2 {
         Scanner sc = new Scanner(System.in);
         System.out.println("Input x (long): ");
         long x = sc.nextLong();
-        x*long x1 = x;
-        
+       
         System.out.println("Input y (long): ");
         long y = sc.nextLong();
         System.out.println(x/y);
